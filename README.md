@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
-</div>
-<div id="badges">
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100px"/>
+  <div id="badges">
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,21 +12,19 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-thelocal69&style=flat-square&color=blue" alt=""/>
+</div>
 <h1>
   Hello everyone !!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/nrXif9YExO9EI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/nrXif9YExO9EI/giphy.gif" width="600px" height="300px"/>
 </div>
 
 ### :man_technologist: About Me :
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :mailbox:How to reach me: ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)(khanhthien666@outlook.com)
-### :trophy: My trophies
-[![trophy](https://github-profile-trophy.vercel.app/?thelocal69=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+- 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
