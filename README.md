@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)(khanhthien666@outlook.com)
+- :mailbox:How to reach me: [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](khanhthien666@outlook.com)
 - 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
