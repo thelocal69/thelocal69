@@ -25,7 +25,8 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :mailbox:How to reach me: <a href="mailto:khanhthien666@gmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook badges"/>
-
+  ![alt text](https://github.com/thelocal69/thelocal69/blob/main/facebook-qr.png?raw=true)  
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
